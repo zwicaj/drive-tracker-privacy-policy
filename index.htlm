@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>DriveTracker Privacy Policy</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Privacy Policy</h1>
+<p><strong>Effective Date:</strong> February 16, 2026</p>
+<p><strong>App Name:</strong> DriveTracker</p>
+<p><strong>Company:</strong> JZ Designs</p>
+<p><strong>Contact Email:</strong> jim.zwica@gmail.com</p>
+
+<h2>1. Overview</h2>
+<p>DriveTracker is an independent application designed to help Uber drivers analyze their trip and earnings data.</p>
+<p>DriveTracker is not affiliated with Uber Technologies Inc.</p>
+
+<h2>2. Information We Access</h2>
+<p>When a user connects their Uber account via OAuth, the App may access:</p>
+<ul>
+<li>Profile information</li>
+<li>Trip history</li>
+<li>Ride details</li>
+<li>Earnings information</li>
+<li>Vehicle information (if permitted)</li>
+</ul>
+<p>We only access data explicitly authorized by the user.</p>
+
+<h2>3. How We Use Information</h2>
+<ul>
+<li>Display trip history and earnings</li>
+<li>Generate performance summaries</li>
+<li>Provide analytics and insights</li>
+</ul>
+<p>We do not sell or rent user data.</p>
+
+<h2>4. Data Storage and Security</h2>
+<p>DriveTracker does not store user data on external servers.</p>
+<p>All authorized Uber data is processed and displayed locally on the user’s device.</p>
+<p>The App does not maintain a backend database and does not retain copies of Uber data outside the user’s device.</p>
+
+<h2>5. Data Sharing</h2>
+<p>We do not share, sell, or disclose user data except when required by law.</p>
+
+<h2>6. OAuth Access</h2>
+<p>DriveTracker uses Uber’s official OAuth 2.0 authentication system. Users may revoke access at any time through Uber account settings.</p>
+
+<h2>7. Contact</h2>
+<p>JZ Designs<br>
+Email: jim.zwica@gmail.com</p>
+
+</body>
+</html>
